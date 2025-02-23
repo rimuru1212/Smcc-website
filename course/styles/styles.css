@@ -37,6 +37,7 @@ section {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 200;
 }
 
 /* Course Styling */
