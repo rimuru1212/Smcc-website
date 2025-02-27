@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Center the entire body content */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Center images */
+.center {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Sections styling */
+section {
+    max-width: 900px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
